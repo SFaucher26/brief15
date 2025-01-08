@@ -35,3 +35,6 @@ Après fork (pour correction) et/ ou démarrage du projet :
    ./gradlew bootrun
 
 les tests de la base apparaissent en console. 
+exemple :
+![image](https://github.com/user-attachments/assets/319090b7-0169-430c-b339-f5466c5fa143)
+
